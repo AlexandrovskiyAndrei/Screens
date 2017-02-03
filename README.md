@@ -1,4 +1,4 @@
 # Screens
 Takes screenshots of webpages
 
-Opens a webpage, collects all its links. Then opens every link and takes a screenshot of a webpage.
+Opens a webpage, collects all its links. Then opens every link and takes a screenshot of a webpage (in reverted order).
