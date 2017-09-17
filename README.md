@@ -5,4 +5,4 @@ Opens a webpage, collects all its links. Then opens every link and takes a scree
 Screenshots are taken in reverted order. Log file is generated.
 
 <br />
-<img src="https://github.com/AlexandrovskiyAndrei/Screens/blob/master/resources/webdriverScreens.png">
+<img src="https://github.com/AlexandrovskiyAndrei/Screens/blob/master/resources/webdriverScreensUpd.png">
